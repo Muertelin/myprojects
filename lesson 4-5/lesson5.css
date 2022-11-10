@@ -1,0 +1,9 @@
+h2, h1{
+    text-align: center;
+}
+body {
+    background-color: rgb(208, 203, 195);
+}
+p, h1, h2, href {
+    color: rgb(23, 19, 16);
+}
